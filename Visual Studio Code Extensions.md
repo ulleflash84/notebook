@@ -6,8 +6,6 @@
 * [Commands](#commands)
 * [Installation](#installation)
 
----
-
 ## Links
 
 * [Extension Anatomy](https://code.visualstudio.com/api/get-started/extension-anatomy)
