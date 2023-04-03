@@ -1,6 +1,6 @@
 // One of TypeScript’s core principles is that type checking focuses on the shape that values have.
 // This is sometimes called “duck typing” or “structural typing”.
-// When it walks like a duck, quacks like a duck and swims like a duck, then it must be a duck.
+// When it behaves like a duck (e. g. walks like a duck, quacks like a duck and swims like a duck) then it must be a duck.
 // In a structural type system, if two objects have the same shape, they are considered to be of the same type.
 
 interface Point {
