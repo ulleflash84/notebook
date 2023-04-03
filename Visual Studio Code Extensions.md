@@ -38,4 +38,4 @@ vsce --help
 
 ## Installation
 
-Run command "Extensions: Install from VSIX..." in Visual Studio Code
+Run command "Extensions: Install from VSIX..." in Visual Studio Code.
